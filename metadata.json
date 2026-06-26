@@ -1,0 +1,6 @@
+{
+  "name": "Patterson Olinga Portfolio",
+  "description": "Portefolio créatif de Patterson Olinga, Creative Director & AI Visual Architect. Présentation de projets de direction créative, prompt engineering, visuels publicitaires et sites web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
